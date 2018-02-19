@@ -1,0 +1,43 @@
+#background {
+  background-color: Green;
+}
+
+#title{
+  border-style: solid;
+  border-color: Black;
+  border-radius: 25px;
+  background-color: Grey;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 50;
+  font-family: Verdana, serif;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500;
+  color: LightGreen;
+}
+
+
+#description{
+  border-style: solid;
+  border-color: black;
+  border-radius: 25px;
+  background-color: white;
+  color: black;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  position: absolute;
+  top: 175;
+  right: 25;
+  left: 25;
+  bottom: 25;
+  display: block;
+  margin-top: 25;
+
+}

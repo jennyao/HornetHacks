@@ -1,0 +1,27 @@
+#title {
+  font-size: 50px;
+  color: LightGreen;
+  font-family: Verdana, serif;
+  display: block;
+
+}
+
+#landingBackground {
+  background-image: url("background_landing.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center left;
+}
+
+#section {
+  border-color: Black;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: Grey;
+}
+
+li, a {
+  color: #CCCC00;
+  font-size: 25px;
+  text-align: right;
+}
